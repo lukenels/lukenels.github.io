@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/lukenels
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.lukenels.net
+  * I am lukenels (https://keybase.io/lukenels) on keybase.
+  * I have a public key ASAzksuQhG535pbeiF55kI1mdEmtBoNZBtTkmE4zw0oO-Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012087de827e875c61547f3d3e30f189d82a637f60358227a54741b64935fe5d18000a",
+      "host": "keybase.io",
+      "kid": "01203392cb90846e77e696de885e79908d667449ad06835906d4e4984e33c34a0ef90a",
+      "uid": "ce12f15918f5b586d9fd8d0bdbb92619",
+      "username": "lukenels"
+    },
+    "merkle_root": {
+      "ctime": 1652902391,
+      "hash": "4228a1ee4fb9a3641f06ba90e762f748aeede4b2143fece7bcb8b0fd8594809efe8e1f4adb3dbd54a997bce5c174eea7db871d8ef344276b75e98fdca903aab5",
+      "hash_meta": "3f2ac660b64ae8255b97d1d397476b0261c7b3ee85646142e5ca7d7a29a1a5d6",
+      "seqno": 22512592
+    },
+    "service": {
+      "entropy": "4btNMBOaU3NZB35gLBglo3jZ",
+      "hostname": "www.lukenels.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.2"
+  },
+  "ctime": 1652902408,
+  "expire_in": 504576000,
+  "prev": "09d87c0a98fa831ee632b254e77e03706b6c8d7a1a917756f24fd0f0bdc3ff4d",
+  "seqno": 59,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgM5LLkIRud+aW3oheeZCNZnRJrQaDWQbU5JhOM8NKDvkKp3BheWxvYWTESpcCO8QgCdh8Cpj6gx7mMrJU534DcGtsjXoakXdW8k/Q8L3D/03EII5p0Q2BVnWywsMXyXiSfFMLciMuMOSMT8B4zRg513qrAgHCo3NpZ8RADF7gFAUW1CKUzPtf7NybNwKnm1dT86C1YJnPMDiHvkoUDI6fC1vcVI/vAGczJOXol41O99xSrnMJFIY+kgQWC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJ7rHFojnwc/bHTR12brh35Gt6MEOHLf62ywrBMov4m3o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lukenels
+
+==================================================================
